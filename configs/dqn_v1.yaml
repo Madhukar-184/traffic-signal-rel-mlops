@@ -3,11 +3,11 @@
 
 episodes:       500
 max_steps:      300
-lr:             0.0005
+lr:             0.001
 gamma:          0.99
 epsilon_start:  1.0
 epsilon_end:    0.05
-epsilon_decay:  0.992
+epsilon_decay:  0.988
 batch_size:     64
 target_update:  10
 buffer_cap:     10000
