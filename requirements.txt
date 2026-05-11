@@ -1,0 +1,5 @@
+gym==0.26.2
+numpy>=1.23
+matplotlib>=3.6
+pyyaml>=6.0
+# torch>=2.0   # optional: only needed for agent.py (PyTorch version)
